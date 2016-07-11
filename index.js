@@ -1,1 +1,1 @@
-module.exports = require('./lib/canvas');
+module.exports = {}; 
