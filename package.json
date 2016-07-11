@@ -37,15 +37,6 @@
   },
   "scripts": {
   },
-  "dependencies": {
-    "nan": "^2.1.0"
-  },
-  "devDependencies": {
-    "body-parser": "^1.13.3",
-    "express": "^4.13.2",
-    "jade": "^1.11.0",
-    "mocha": "*"
-  },
   "engines": {
     "node": ">=0.8.0"
   },
